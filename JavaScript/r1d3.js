@@ -16,5 +16,5 @@ function fearNotLetter(str) {
   
   let result = document.getElementById("result")
   result.innerHTML += `<h4>Day 3: ${text}</h4>`
-  result.innerHTML += "<quote>Find missing letter</quote>"
+  result.innerHTML += "<quote>Find missing letter in a string of sucesive letters</quote>"
 }

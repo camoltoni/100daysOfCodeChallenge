@@ -15,5 +15,5 @@ function pairElement(str) {
   
   let result = document.getElementById("result")
   result.innerHTML += `<h4>Day 2: ${text}</h4>`
-  result.innerHTML += "<quote>Create DNA pairs.</quote>"
+  result.innerHTML += "<quote>Create DNA pairs from a sequence of aminoacids</quote>"
 }
