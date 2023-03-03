@@ -30,3 +30,6 @@ Get the smallest common multiple of a range of numbers
 
 ### R1D9
 Get the result array from the first element that meets a condition
+
+### R1D10
+Flatten a multi dimensional array

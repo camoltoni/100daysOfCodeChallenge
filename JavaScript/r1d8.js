@@ -18,7 +18,6 @@ function smallestCommons(arr) {
 
 {
   let text = smallestCommons([23,18])
-  console.log(text)
   let result = document.getElementById("result")
   result.innerHTML += `<h4>Day 8: ${text}</h4>`
   result.innerHTML += "<quote>Get the smallest common multiple of a range of numbers</quote>"
