@@ -13,7 +13,7 @@ function truthCheck(collection, pre) {
 }
 
 {
-  let text = truthCheck([{name: "Quincy", role: "Founder", isBot: false}, {name: "Naomi", role: "", isBot: false}, {name: "Camperbot", role: "Bot", isBot: true}], "isBot")
+  let text = truthCheck([{name: "Quincy", role: "Founder", isBot: false}, {name: "Naomi", role: "", isBot: false}, {name: "Camperbot", role: "Bot", isBot: true}], "role")
   console.log(text)
   let result = document.getElementById("result")
   result.innerHTML += `<h4>Day 11: ${text}</h4>`
