@@ -33,3 +33,6 @@ Get the result array from the first element that meets a condition
 
 ### R1D10
 Flatten a multi dimensional array
+
+### R1D11
+Decode a string of binary numbers into a character string
