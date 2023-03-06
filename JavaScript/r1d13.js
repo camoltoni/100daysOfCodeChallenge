@@ -8,9 +8,8 @@ function addTogether() {
 
 
 {
-  let text = addTogether(2)([3])
-  console.log(text)
+  let text = addTogether(2)(3)
   let result = document.getElementById("result")
-  result.innerHTML += `<h4>Day 12: ${text}</h4>`
-  result.innerHTML += "<quote>Check if a value is in all objects of a collection with truthy values</quote>"
+  result.innerHTML += `<h4>Day 13: ${text}</h4>`
+  result.innerHTML += "<quote>Function that sums two arguments or return a function if one argument is provided</quote>"
 }

@@ -36,3 +36,9 @@ Flatten a multi dimensional array
 
 ### R1D11
 Decode a string of binary numbers into a character string
+
+### R1D12
+Check if a value is in all objects of a collection with truthy values
+
+### R1D13
+Function that sums two arguments or return a function if one argument is provided
