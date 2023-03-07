@@ -21,6 +21,11 @@ const Person = function(firstAndLast) {
     tempFirstAndLast[1] = last
     firstAndLast = tempFirstAndLast.join(" ")
   };
+  this.setFullName(firstAndLast) {
+    let tempFirstAndLast = fistAndLast.split()
+    this.setFirstName(tempFirstAndLast(tempFirstAndLast[0]))
+    this.setLastName(tempFirstAndLast(tempFirstAndLast))
+  }
   return firstAndLast;
 };
 
