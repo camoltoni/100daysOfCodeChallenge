@@ -48,3 +48,6 @@ Object manipulation
 
 ### R1D15
 Calculate orbital period in seconds
+
+### R1D16
+Palindrome checker
