@@ -1,10 +1,8 @@
 function orbitalPeriod(arr) {
   const GM = 398600.4418;
   const earthRadius = 6367.4447;
-
   return arr.map((elem)=>{
-    const a = elem.avgAlt + earthRadius
-    return {name:elem.name, orbitalPeriod:Math.round((Math.PI * 2) * Math.sqrt((a**3)/GM))}
+    return {name:elem.name, orbitalPeriod:Math.round((Math.PI * 2) * Math.sqrt(((elem.avgAlt + earthRadius)**3)/GM))}
   });
 }
 
