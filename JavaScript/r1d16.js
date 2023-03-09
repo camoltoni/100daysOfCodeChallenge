@@ -15,6 +15,7 @@ function palindrome(str) {
   console.log(palindrome("0_0 (: /-\ :) 0-0"))
   console.log(palindrome("A man, a plan, a canal. Panama"))
   console.log(palindrome("five|\_/|four"))
+  console.log(palindrome("Dabale arroz a la zorra el abad"))
 
   let result = document.getElementById("result")
   result.innerHTML += `<h4>Day 15: ${text}</h4>`
