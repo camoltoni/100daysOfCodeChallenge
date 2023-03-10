@@ -17,6 +17,6 @@ function rot13(str) {
   let text = rot13("SERR PBQR PNZC")
   console.table(text)
   let result = document.getElementById("result")
-  result.innerHTML += `<h4>Day 17: ${text}</h4>`
-  result.innerHTML += "<quote>Decimal to roman numbers converter</quote>"
+  result.innerHTML += `<h4>Day 18: ${text}</h4>`
+  result.innerHTML += "<quote>Decode Caesars Cipher ROT13 encrypted strings</quote>"
 }
