@@ -1,49 +1,21 @@
-function convertToRoman(num) {
-  const romanNums = [ 
-    {number:1000, letter:"M"},
-    {number:500,letter:"D"},
-    {number:100, letter:"C"},
-    {number:50, letter:"L"},
-    {number:10, letter:"X"},
-    {number:5, letter:"V"},
-    {number:1, letter:"I"}
-  ]
-  let remainder = num
-  let romanNum = ""
-  for(let i = 0; i < romanNums.length; i+=2) {
-      const div = Math.floor(remainder/romanNums[i].number)
-      switch(div){
-        case 1:
-        case 2:
-        case 3:
-          romanNum += romanNums[i].letter.repeat(div)
-          break
-        case 4:
-          romanNum += romanNums[i].letter+romanNums[i-1].letter
-          break
-        case 5:
-        case 6:
-        case 7:
-        case 8:
-          romanNum += romanNums[i-1].letter+(romanNums[i].letter).repeat(div-5)
-          break
-        case 9:
-          romanNum += romanNums[i].letter + romanNums[i-2].letter
-          break
-      }
-    remainder = remainder % romanNums[i].number
-  }
-  return romanNum;
+function rot13(str) {
+  const codeA = "A".charCodeAt(0)
+  const codeZ = "Z".charCodeAt(0)
+  return str.split("").map((l)=>{
+    if(l.match(/[A-Z]/)){
+      let char13 = l.charCodeAt(0)+13
+      if(char13 > codeZ)
+        char13 = codeA + char13 % codeZ -1
+      l = String.fromCharCode(char13)
+    }
+    return l
+  }).join("")
 }
-
-
 
 {
 
-  let text = convertToRoman(3999)
-  const msg = "mal"
-  console.assert(text == "MMMCMXCIX", "%o", {text, msg})
-  console.log(convertToRoman(891))
+  let text = rot13("SERR PBQR PNZC")
+  console.table(text)
   let result = document.getElementById("result")
   result.innerHTML += `<h4>Day 17: ${text}</h4>`
   result.innerHTML += "<quote>Decimal to roman numbers converter</quote>"

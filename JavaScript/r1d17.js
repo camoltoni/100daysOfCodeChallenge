@@ -42,8 +42,6 @@ function convertToRoman(num) {
 
   let text = convertToRoman(3999)
   const msg = "mal"
-  console.assert(text == "MMMCMXCIX", "%o", {text, msg})
-  console.log(convertToRoman(891))
   let result = document.getElementById("result")
   result.innerHTML += `<h4>Day 17: ${text}</h4>`
   result.innerHTML += "<quote>Decimal to roman numbers converter</quote>"
