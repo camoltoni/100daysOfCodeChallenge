@@ -54,3 +54,6 @@ Palindrome checker
 
 ### R1D17
 Decimal to roman numbers converter
+
+### R1D18
+Decode Caesars Cipher ROT13 encrypted strings
