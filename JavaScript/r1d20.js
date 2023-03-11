@@ -16,9 +16,9 @@ function checkCashRegister(price, cash, cid) {
                   ["FIVE", 5],
                   ["TEN", 10],
                   ["TWENTY", 20],
-                  ["ONE HUNDRED", 100}]]; 
+                  ["ONE HUNDRED", 100]]; 
   let diff = cash - price;
-  let change;
+  let change = diff;
   return change;
 }
 
