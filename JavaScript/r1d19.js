@@ -7,8 +7,7 @@ function telephoneCheck(str) {
 {
 
   let text = telephoneCheck("555 555 5555")
-  console.table(text)
   let result = document.getElementById("result")
-  result.innerHTML += `<h4>Day 18: ${text}</h4>`
-  result.innerHTML += "<quote>Decode Caesars Cipher ROT13 encrypted strings</quote>"
+  result.innerHTML += `<h4>Day 19: ${text}</h4>`
+  result.innerHTML += "<quote>US phone number checker</quote>"
 }
