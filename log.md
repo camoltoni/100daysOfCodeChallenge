@@ -85,4 +85,11 @@ C++20 Staircase problem [HackerRank staircase problem](https://www.hackerrank.co
 ### R2D5 March 18, 2023. Day --
 Some order and house cleaning
 
+### R3D26 March 19, 2023. Day 26
+[HackerRank C++20 problem solving: Mini-Max Sum
+](https://www.hackerrank.com/challenges/mini-max-sum/submissions/code/319637767)
+
+### R3D27 March 20, 2023. Day 27
+[HackerRank C++20 problem solving: Birthday Cake Candles
+](https://www.hackerrank.com/challenges/birthday-cake-candles/submissions/code/319827728)
 
