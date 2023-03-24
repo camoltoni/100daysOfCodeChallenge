@@ -93,3 +93,21 @@ Some order and house cleaning
 [HackerRank C++20 problem solving: Birthday Cake Candles
 ](https://www.hackerrank.com/challenges/birthday-cake-candles/submissions/code/319827728)
 
+### R3D29 March 21, 2023. Day 28
+[HackerRank C++20 preparation: Variable sized arrays
+](https://www.hackerrank.com/challenges/variable-sized-arrays/submissions/code/320161586)
+
+### R3D29 March 22, 2023. Day 29
+[HackerRank C++20 preparation: Vector sort
+](https://www.hackerrank.com/challenges/vector-sort/submissions/code/320161361)
+
+### R3D29 March 23, 2023. Day 30
+[HackerRank C++20 preparation: Variable Sized Arrays
+](https://www.hackerrank.com/challenges/vector-sort/submissions/code/320161361)
+[HackerRank C++20 preparation: Vector-Erase
+](https://www.hackerrank.com/challenges/vector-sort/submissions/code/320161361)
+
+### R3D30 March 24, 2023. Day 31
+[HackerRank C++20 preparation: Lower Bound-STL
+](https://www.hackerrank.com/challenges/vector-sort/submissions/code/320161361)
+
