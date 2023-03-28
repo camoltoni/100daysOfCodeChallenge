@@ -93,7 +93,7 @@ Some order and house cleaning
 [HackerRank C++20 problem solving: Birthday Cake Candles
 ](https://www.hackerrank.com/challenges/birthday-cake-candles/submissions/code/319827728)
 
-### R3D29 March 21, 2023. Day 28
+### R3D28 March 21, 2023. Day 28
 [HackerRank C++20 preparation: Variable sized arrays
 ](https://www.hackerrank.com/challenges/variable-sized-arrays/submissions/code/320161586)
 
@@ -101,13 +101,27 @@ Some order and house cleaning
 [HackerRank C++20 preparation: Vector sort
 ](https://www.hackerrank.com/challenges/vector-sort/submissions/code/320161361)
 
-### R3D29 March 23, 2023. Day 30
+### R3D30 March 23, 2023. Day 30
 [HackerRank C++20 preparation: Variable Sized Arrays
 ](https://www.hackerrank.com/challenges/vector-sort/submissions/code/320161361)
 [HackerRank C++20 preparation: Vector-Erase
 ](https://www.hackerrank.com/challenges/vector-sort/submissions/code/320161361)
 
-### R3D30 March 24, 2023. Day 31
+### R3D31 March 24, 2023. Day 31
 [HackerRank C++20 preparation: Lower Bound-STL
 ](https://www.hackerrank.com/challenges/vector-sort/submissions/code/320161361)
 
+### R3D32 March 25, 2023. Day 32
+[HackerRank C++20 preparation: Sets
+](https://www.hackerrank.com/challenges/cpp-sets/submissions/code/320595819)
+
+Just earned my 4th star on the C++ Badge on [HackerRank!](https://www.hackerrank.com/cesarmoltoni?badge=cpp&stars=4&level=2&hr_r=1&utm_campaign=social-buttons&utm_medium=twitter&utm_source=badge_share_profile&social=linkedin)
+
+### R3D33 March 26, 2023. Day 33
+[CodeWars solved: Double encoder
+](https://www.codewars.com/users/camoltoni)
+I solved the "Duplicate Encoder" kata! Take the code initiation @ [CodeWars](codewars.com/r/RoZfbg) to enlist and challenge yourself. #codewars 
+
+### R3D34 March 27, 2023. Day 34
+[HackerRank C++20 preparation: Maps-STL
+](https://www.hackerrank.com/challenges/cpp-maps/submissions/code/320767417)
