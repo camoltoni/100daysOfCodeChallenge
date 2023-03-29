@@ -125,3 +125,6 @@ I solved the "Duplicate Encoder" kata! Take the code initiation @ [CodeWars](cod
 ### R3D34 March 27, 2023. Day 34
 [HackerRank C++20 preparation: Maps-STL
 ](https://www.hackerrank.com/challenges/cpp-maps/submissions/code/320767417)
+
+### R3D35 March 28, 2023. Day 35
+[HackerRank C++20 preparation: Strings](https://www.hackerrank.com/challenges/c-tutorial-strings/submissions/code/321103258)
