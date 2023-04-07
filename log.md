@@ -132,17 +132,32 @@ I solved the "Duplicate Encoder" kata! Take the code initiation @ [CodeWars](cod
 ### R3D11 March 29, 2023. Day --
 Math class.
 
-### R3D35 March 30, 2023. Day 36
+### R4D1 March 30, 2023. Day 36
 [HackerRank C++20 preparation: StringStream](https://www.hackerrank.com/challenges/c-tutorial-stringstream/submissions/code/321573240)
 
-### R3D35 March 31, 2023. Day 37
+### R4D2 March 31, 2023. Day 37
 [CodeWars C++20 kata: Car Park Escape](https://www.codewars.com/kata/591eab1d192fe0435e000014/solutions/cpp)
 
 ##### I am also gained a new badge.
 [5kyu Badge](https://www.codewars.com/users/camoltoni)
 
-### R3D35 April 1, 2023. Day 38
+### R4D3 April 1, 2023. Day 38
 [CodeWars C++20 kata: Next bigger number with the same digits](https://www.codewars.com/kata/55983863da40caa2c900004e/train/cpp/642850a2e05e2a005d96b4b9)
 
-### R3D35 April 2, 2023. Day 39
+### R4D4 April 2, 2023. Day 39
 [CodeWars C++20 kata: Snail](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1/train/cpp/642986fc72ba91003708e36d)
+
+### R4D5 April 3, 2023. Day 40
+[HackerRank C++20 preparation: Classes](https://www.hackerrank.com/cesarmoltoni)
+
+### R4D6 April 4, 2023. Day 41
+[HackerRank C++20 preparation: Box It! (Encapsulation)](https://www.hackerrank.com/cesarmoltoni)
+
+### R4D7 April 5, 2023. Day 42
+[HackerRank C++20 preparation: Classes and Objects](https://www.hackerrank.com/cesarmoltoni)
+
+### R4D8 April 6, 2023. Day 43
+[HackerRank C++20 preparation: Inherited Code](https://www.hackerrank.com/cesarmoltoni)
+
+### R4D9 April 7, 2023. Day 44
+[HackerRank C++20 preparation: Exceptional Server (Exception handling)](https://www.hackerrank.com/cesarmoltoni)
