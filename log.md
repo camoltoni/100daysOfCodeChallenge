@@ -161,3 +161,9 @@ Math class.
 
 ### R4D9 April 7, 2023. Day 44
 [HackerRank C++20 preparation: Exceptional Server (Exception handling)](https://www.hackerrank.com/cesarmoltoni)
+
+### R4D10 April 8, 2023. Day 45
+[HackerRank C++20 preparation: Virtual functions](https://www.hackerrank.com/cesarmoltoni)
+
+### R4D11 April 9, 2023. Day 46
+[HackerRank C++20 preparation: Abstract Classes - Polymorphism](https://www.hackerrank.com/cesarmoltoni)
