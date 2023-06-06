@@ -167,3 +167,9 @@ Math class.
 
 ### R4D11 April 9, 2023. Day 46
 [HackerRank C++20 preparation: Abstract Classes - Polymorphism](https://www.hackerrank.com/cesarmoltoni)
+
+### Day 47
+[Unreal Engine 5 practice - Materials](https://github.com/camoltoni/unreal3d-practica-materiales)
+
+### Day 48
+[Unreal Engine 5 practice - Blueprints "Hello World"](https://youtu.be/CYY85pzBrBY)
